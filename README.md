@@ -16,7 +16,6 @@ For execution, `write` executable must be executed first
 NOTE: it is necessary to add the file "spain.csv" to the unzipped folder before executing. This file can be downloaded with the link: http://mat.uab.cat/~alseda/MasterOpt/spain.csv.zip
 Then, `astar`  executable can be executed to obtain the results.
 
-## Authors
-@author: Adrià Colás Gallardo.        NIU: 1419956
-@author: Xavier Olivé Fernández.    NIU: 1394407
+## Author
+@author: Xavier Olivé Fernández
 
